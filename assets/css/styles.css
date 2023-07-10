@@ -405,6 +405,7 @@ li {
   width: 6px;
   height: 6px;
   margin-right: 10px;
+  cursor: pointer;
 }
 
 .dot i:nth-child(2) {
